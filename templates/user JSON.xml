@@ -1,0 +1,16 @@
+<templateSet group="user JSON">
+  <template name="," value=",&#10;&quot;$0$&quot;: &quot;$1$&quot;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="0" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JSON" value="true" />
+    </context>
+  </template>
+  <template name=",," value=",&#10;&quot;$0$&quot;: &quot;$1$&quot;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="0" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="1" expression="clipboard()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JSON" value="true" />
+    </context>
+  </template>
+</templateSet>

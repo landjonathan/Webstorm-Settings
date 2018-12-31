@@ -1,0 +1,17 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cc0384bb-93ab-453c-b33d-0254c63b3d65" name="Praktik FTP" url="http://212.143.212.62">
+        <fileTransfer host="212.143.212.62" port="21" username="praktikc" password="dfdbdf9edfccdfecdf98dfdadfcddfe7df9cdf9c">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="81181070-803d-442d-85be-ee9bb46ee6de" name="Praktik website" url="http://localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
