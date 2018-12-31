@@ -1,0 +1,5 @@
+<application>
+  <component name="JSRefactoringSettings">
+    <option name="INLINE_THIS" value="true" />
+  </component>
+</application>
