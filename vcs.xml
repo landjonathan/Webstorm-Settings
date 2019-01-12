@@ -30,8 +30,12 @@
           <option name="url" value="http://bitbucket.org" />
           <option name="userName" value="jonathan-land" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/studio-praktik/evan-architects---front.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Desktop" />
+    <option name="cloneParentDir" value="$USER_HOME$/Desktop/PRAKTIK" />
   </component>
 </application>
