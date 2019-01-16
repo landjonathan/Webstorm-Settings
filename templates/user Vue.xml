@@ -6,7 +6,7 @@
       <option name="VUE_TOP_LEVEL" value="true" />
     </context>
   </template>
-  <template name="transition" value="&lt;transition name=&quot;$0$&quot;&gt;&#10;    $SELECTION$&#10;&lt;/transition&gt;" toReformat="false" toShortenFQNames="true">
+  <template name="transition" value="&lt;transition name=&quot;$0$&quot;&gt;&#10;    $SELECTION$&#10;&lt;/transition&gt;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="0" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="VUE_TEMPLATE" value="true" />
