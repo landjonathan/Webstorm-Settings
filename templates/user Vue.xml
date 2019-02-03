@@ -12,7 +12,7 @@
       <option name="VUE_TEMPLATE" value="true" />
     </context>
   </template>
-  <template name="vbg" value=":style=&quot;`background-image: url('${$0$}')`&quot;" toReformat="false" toShortenFQNames="true">
+  <template name="vbg" value=":style=&quot;`background-image: url('${$0$}')`&quot;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="0" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="VUE_INSIDE_TAG" value="true" />
