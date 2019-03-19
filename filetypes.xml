@@ -1,11 +1,14 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="asd" type="PLAIN_TEXT" />
-      <mapping pattern="asdf" type="PLAIN_TEXT" />
-      <mapping ext="todo" type="PLAIN_TEXT" />
-      <mapping ext="ase" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="asdf" type="PLAIN_TEXT" />
+      <mapping pattern="asd" type="PLAIN_TEXT" />
+      <mapping ext="todo" type="PLAIN_TEXT" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping ext="ase" type="PLAIN_TEXT" />
+      <mapping ext="eot" type="PLAIN_TEXT" />
+      <mapping ext="woff" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
