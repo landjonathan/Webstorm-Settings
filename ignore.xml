@@ -36,6 +36,11 @@
 *.iml
 out
 gen</template>
+      <template name="Your template"># Created by .ignore support plugin (hsz.mobi)
+/node_modules/</template>
+      <template name="Your template"># Created by .ignore support plugin (hsz.mobi)
+/node_modules/
+!/.idea</template>
     </userTemplates>
   </component>
 </application>

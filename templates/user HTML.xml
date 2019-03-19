@@ -1,5 +1,5 @@
 <templateSet group="user HTML">
-  <template name="bg" value="style=&quot;background-image: url('$0$')" description="" toReformat="false" toShortenFQNames="true">
+  <template name="bg" value="style=&quot;background-image: url('$0$')&quot;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="0" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />

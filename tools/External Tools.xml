@@ -1,5 +1,5 @@
 <toolSet name="External Tools">
-  <tool name="Vue UI" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="Vue UI" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="vue" />
       <option name="PARAMETERS" value="ui" />
@@ -17,6 +17,13 @@
     <exec>
       <option name="COMMAND" value="php" />
       <option name="PARAMETERS" value="-S 0.0.0.0:1024" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="bs local php" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="browser-sync" />
+      <option name="PARAMETERS" value="start --proxy &quot;localhost:1024&quot; --files &quot;**/*&quot; --browser --port 4000" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
