@@ -1,8 +1,4 @@
 <code_scheme name="Default (1)" version="173">
-  <HTMLCodeStyleSettings>
-    <option name="HTML_ALIGN_TEXT" value="true" />
-    <option name="HTML_NEWLINE_AFTER_LAST_ATTRIBUTE" value="When multiline" />
-  </HTMLCodeStyleSettings>
   <JSCodeStyleSettings version="0">
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
