@@ -1,10 +1,10 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="cc0384bb-93ab-453c-b33d-0254c63b3d65" name="Praktik FTP" url="http://212.143.212.62">
-        <fileTransfer host="212.143.212.62" port="21" username="praktikc" password="dfdbdf9edfccdfecdf98dfdadfcddfe7df9cdf9c">
+      <webServer id="cc0384bb-93ab-453c-b33d-0254c63b3d65" name="Praktik FTP" url="http://itm17.siteground.biz">
+        <fileTransfer host="itm17.siteground.biz" port="21" rootFolder="/public_html" username="praktikc" password="dfdbdf9edfccdfecdf98dfdadfcddfe7df9cdf9c">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>
