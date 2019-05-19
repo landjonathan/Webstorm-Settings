@@ -4,7 +4,7 @@
     <property name="created">2018-08-15T14:25:33</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.1.0.0</property>
-    <property name="modified">2019-05-06T15:58:19</property>
+    <property name="modified">2019-05-19T21:57:50</property>
     <property name="originalScheme">Dark for P3</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.15" />
@@ -47,7 +47,7 @@
     <option name="NOTIFICATION_BACKGROUND" value="3c3f41" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
     <option name="RIGHT_MARGIN_COLOR" value="323232" />
-    <option name="SELECTED_INDENT_GUIDE" value="0" />
+    <option name="SELECTED_INDENT_GUIDE" value="376b89" />
     <option name="SELECTED_TEARLINE_COLOR" value="282c34" />
     <option name="SELECTION_BACKGROUND" value="1d2029" />
     <option name="SELECTION_FOREGROUND" value="" />
