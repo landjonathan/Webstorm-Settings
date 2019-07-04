@@ -46,6 +46,10 @@
           <option name="url" value="https://github.com/StudioPraktik/one-pager.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="land.jonathan@gmail.com" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Praktik/1 kilo/landing page" />
