@@ -12,6 +12,7 @@
       <mapping ext="ase" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
+      <mapping ext="liquid" type="Twig" />
     </extensionMap>
   </component>
 </application>
