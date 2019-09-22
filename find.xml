@@ -14,7 +14,7 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.vue</mask>
     <mask>*.sass</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
