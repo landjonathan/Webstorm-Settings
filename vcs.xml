@@ -62,9 +62,13 @@
           <option name="url" value="https://gitlab.com/jonathanland/orlivneh-design.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/html-screen-capture-js/html-screen-capture-js.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/projects/or livneh" />
+    <option name="cloneParentDir" value="$USER_HOME$/Praktik/refff/dev" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
