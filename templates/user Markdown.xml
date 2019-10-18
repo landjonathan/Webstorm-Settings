@@ -1,5 +1,5 @@
 <templateSet group="user Markdown">
-  <template name="," value="&#10;-[ ] " toReformat="false" toShortenFQNames="true">
+  <template name="," value="&#10;-[ ] " description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CSS" value="false" />
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
