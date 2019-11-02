@@ -6,6 +6,7 @@
       <mapping pattern="ignore" type="Git exclude file" />
       <mapping ext="liquid" type="HTML" />
       <mapping ext="njk" type="Handlebars/Mustache" />
+      <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
