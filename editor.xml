@@ -19,4 +19,7 @@
       <option name="FONT_TYPE" value="2" />
     </pattern>
   </component>
+  <component name="XmlFoldingSettings">
+    <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
+  </component>
 </application>
