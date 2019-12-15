@@ -19,4 +19,11 @@
       <option name="VUE_TEMPLATE" value="true" />
     </context>
   </template>
+  <template name="nuxtStore" value="export const state = () =&gt; ({&#10; &#10;})&#10;&#10;export const mutations = {&#10;  &#10;}&#10;&#10;export const actions = {&#10;  nuxtServerInit ({commit, dispatch}) {&#10;&#10;  },&#10;}&#10;&#10;export const getters = {&#10;&#10;}" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="ES6_STATEMENT" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+      <option name="VUE_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
