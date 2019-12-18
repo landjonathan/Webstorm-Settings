@@ -1,8 +1,4 @@
 <application>
-  <component name="EditorSettings">
-    <option name="STRIP_TRAILING_SPACES" value="Whole" />
-    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
-  </component>
   <component name="SqlEditorOptions">
     <option name="concatenateStringsOnEnter" value="true" />
     <option name="qualificationType" value="On collisions" />
@@ -18,8 +14,5 @@
       <option name="FOREGROUND" value="848891" />
       <option name="FONT_TYPE" value="2" />
     </pattern>
-  </component>
-  <component name="XmlFoldingSettings">
-    <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
   </component>
 </application>
