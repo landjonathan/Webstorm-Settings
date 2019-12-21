@@ -1,5 +1,5 @@
 <templateSet group="user Vue">
-  <template name="vsass" value="&lt;style scoped lang=&quot;sass&quot;&gt;&#10;  $0$&#10;&lt;/style&gt;" description="" toReformat="false" toShortenFQNames="true">
+  <template name="vs" value="&lt;style scoped lang=&quot;sass&quot;&gt;&#10;  $0$&#10;&lt;/style&gt;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="0" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="VUE_COMPONENT_DESCRIPTOR" value="true" />
