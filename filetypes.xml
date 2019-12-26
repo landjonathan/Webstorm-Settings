@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="liquid" type="HTML" />
       <mapping pattern="asdf" type="PLAIN_TEXT" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping ext="todo" type="PLAIN_TEXT" />
