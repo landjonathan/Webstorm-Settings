@@ -7,8 +7,8 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping ext="todo" type="PLAIN_TEXT" />
-      <mapping ext="njk" type="Twig" />
       <removed_mapping ext="njk" approved="true" type="Handlebars/Mustache" />
+      <mapping ext="njk" type="Twig" />
       <mapping pattern="ignore" type="Git exclude file" />
     </extensionMap>
   </component>
