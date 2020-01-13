@@ -13,6 +13,9 @@
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
+  <yaml>
+    <option name="SEQUENCE_ON_NEW_LINE" value="true" />
+  </yaml>
   <codeStyleSettings language="CSS">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />

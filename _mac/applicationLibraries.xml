@@ -52,5 +52,16 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="smoothscroll" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_iamdustan-smoothscroll_0.4.0_smoothscroll.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_iamdustan-smoothscroll_0.4.0_smoothscroll.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
   </component>
 </application>
