@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="liquid" type="HTML" />
+      <mapping pattern="index" type="JSON" />
       <mapping pattern="asdf" type="PLAIN_TEXT" />
       <mapping pattern=".htmlnanorc" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
