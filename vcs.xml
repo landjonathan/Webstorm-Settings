@@ -48,7 +48,7 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://github.com" />
-          <option name="userName" value="land.joanthan@gmail.com" />
+          <option name="userName" value="landjonathan" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://github.com/StudioPraktik/refff-scrape-service.git" />
@@ -94,6 +94,14 @@
           <option name="url" value="https://github.com/StudioPraktik/hebra-test.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/StudioPraktik/praktik-under-construction.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://studiopraktik@github.com/StudioPraktik/praktik-under-construction.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Praktik" />
@@ -108,5 +116,8 @@
         <option value="3" />
       </list>
     </option>
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
   </component>
 </application>
