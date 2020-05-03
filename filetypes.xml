@@ -3,15 +3,16 @@
     <extensionMap>
       <mapping ext="liquid" type="HTML" />
       <mapping pattern="index" type="JSON" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern="asdf" type="PLAIN_TEXT" />
       <mapping pattern=".htmlnanorc" type="PLAIN_TEXT" />
-      <mapping pattern=".cargo-ok" type="PLAIN_TEXT" />
-      <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern=".cargo-ok" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="todo" type="PLAIN_TEXT" />
-      <mapping ext="njk" type="Twig" />
+      <mapping ext="sketch" type="PLAIN_TEXT" />
+      <mapping pattern="kuala-lumpur.svg" type="SVG" />
       <mapping pattern=".postcssrc" type="YAML" />
       <removed_mapping ext="njk" approved="true" type="Handlebars/Mustache" />
       <mapping pattern="ignore" type="Git exclude file" />

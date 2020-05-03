@@ -10,7 +10,9 @@
     <keyboard-shortcut first-keystroke="f2" />
     <keyboard-shortcut first-keystroke="enter" />
   </action>
-  <action id="EditorStartNewLineBefore" />
+  <action id="EditorStartNewLineBefore">
+    <keyboard-shortcut first-keystroke="shift meta alt enter" />
+  </action>
   <action id="QuickActionPopup" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="meta alt enter" />

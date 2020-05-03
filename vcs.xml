@@ -48,7 +48,7 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://github.com" />
-          <option name="userName" value="land.joanthan@gmail.com" />
+          <option name="userName" value="landjonathan" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://github.com/StudioPraktik/refff-scrape-service.git" />
@@ -92,6 +92,14 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://github.com/StudioPraktik/hebra-test.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/StudioPraktik/praktik-under-construction.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://studiopraktik@github.com/StudioPraktik/praktik-under-construction.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>

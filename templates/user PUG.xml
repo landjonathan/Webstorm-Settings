@@ -1,0 +1,8 @@
+<templateSet group="user PUG">
+  <template name="bg" value="style=`background-image: url('${$URL$}')`" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="URL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JADE" value="true" />
+    </context>
+  </template>
+</templateSet>

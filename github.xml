@@ -1,10 +1,13 @@
 <application>
   <component name="GithubAccounts">
-    <account id="39c50469-b712-4e30-ac4f-bc0be543783e" name="land.jonathan@gmail.com">
-      <server host="github.com" />
-    </account>
     <account id="a4ef51c8-e469-4323-a954-5df3c1445d27" name="studiopraktik">
       <server host="github.com" />
     </account>
+    <account id="39c50469-b712-4e30-ac4f-bc0be543783e" name="land.jonathan@gmail.com">
+      <server host="github.com" />
+    </account>
+  </component>
+  <component name="GithubSettings">
+    <option name="CREATE_PULL_REQUEST_CREATE_REMOTE" value="YES" />
   </component>
 </application>
