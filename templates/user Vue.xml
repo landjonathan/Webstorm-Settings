@@ -26,7 +26,7 @@
       <option name="VUE_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="vp" value="$propName$: { type: $type$, required: $default$$END$ }," toReformat="false" toShortenFQNames="true">
+  <template name="vp" value="$propName$: { type: $type$, required: $default$$END$ }," description="" toReformat="false" toShortenFQNames="true">
     <variable name="propName" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="default" expression="" defaultValue="" alwaysStopAt="true" />
@@ -35,7 +35,7 @@
       <option name="VUE_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="vm" value="mounted () {&#10;  $0$&#10;}" toReformat="false" toShortenFQNames="true">
+  <template name="vm" value="mounted () {&#10;  $0$&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="0" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="VUE_COMPONENT_DESCRIPTOR" value="true" />
