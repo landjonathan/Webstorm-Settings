@@ -11,6 +11,7 @@
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="todo" type="PLAIN_TEXT" />
+      <mapping ext="mo4" type="PLAIN_TEXT" />
       <mapping ext="sketch" type="PLAIN_TEXT" />
       <mapping pattern="kuala-lumpur.svg" type="SVG" />
       <mapping ext="njk" type="Twig" />
