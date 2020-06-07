@@ -8,13 +8,17 @@
       <mapping pattern=".htmlnanorc" type="PLAIN_TEXT" />
       <mapping pattern="data.ndjson" type="PLAIN_TEXT" />
       <mapping pattern=".cargo-ok" type="PLAIN_TEXT" />
+      <mapping pattern=".mvnrc" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping pattern=".eleventyignore" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="todo" type="PLAIN_TEXT" />
+      <mapping ext="mo4" type="PLAIN_TEXT" />
       <mapping ext="sketch" type="PLAIN_TEXT" />
       <mapping pattern="kuala-lumpur.svg" type="SVG" />
+      <mapping pattern="projects.njk" type="Twig" />
       <mapping ext="njk" type="Twig" />
       <mapping pattern=".postcssrc" type="YAML" />
       <removed_mapping ext="njk" approved="true" type="Handlebars/Mustache" />
