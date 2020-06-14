@@ -38,11 +38,8 @@
 *.iml
 out
 gen</template>
-      <template name="Your template"># Created by .ignore support plugin (hsz.mobi)
-/node_modules/</template>
-      <template name="Your template"># Created by .ignore support plugin (hsz.mobi)
-/node_modules/
-!/.idea</template>
+      <template name="Your template">/node_modules/
+/.idea/workspace.xml</template>
     </userTemplates>
   </component>
 </application>
