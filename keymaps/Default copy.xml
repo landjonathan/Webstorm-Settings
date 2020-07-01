@@ -13,6 +13,9 @@
   <action id="EditorStartNewLineBefore">
     <keyboard-shortcut first-keystroke="shift meta alt enter" />
   </action>
+  <action id="EditorToggleUseSoftWraps">
+    <keyboard-shortcut first-keystroke="shift meta alt s" />
+  </action>
   <action id="GotoTest" />
   <action id="QuickActionPopup" />
   <action id="ReopenClosedTab">
