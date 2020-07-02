@@ -5,6 +5,7 @@
         <option name="suppressed">
           <set>
             <option value="prevent keyboard scrolling" />
+            <option value="criteria criteria" />
           </set>
         </option>
       </SuppressingContext>
