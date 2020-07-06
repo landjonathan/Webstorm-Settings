@@ -1,0 +1,7 @@
+<templateSet group="user css">
+  <template name="h" value="h1,h2,h3,h4,h5,h6" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_RULESET_LIST" value="true" />
+    </context>
+  </template>
+</templateSet>
