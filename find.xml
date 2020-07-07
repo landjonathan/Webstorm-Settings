@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.njk" />
+    <option name="FILE_MASK" value="*.sass" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -15,10 +15,10 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.sass</mask>
     <mask>*.css,*.html</mask>
     <mask>*.vue</mask>
     <mask>*.yml</mask>
     <mask>*.njk</mask>
+    <mask>*.sass</mask>
   </component>
 </application>
