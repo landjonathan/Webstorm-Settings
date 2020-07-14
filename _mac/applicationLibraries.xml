@@ -4,5 +4,16 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="netlify-identity-widget" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_identity.netlify.com_v1_netlify-identity-widget.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_identity.netlify.com_v1_netlify-identity-widget.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
   </component>
 </application>
