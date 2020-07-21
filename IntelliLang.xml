@@ -1,5 +1,9 @@
 <application>
   <component name="LanguageInjectionConfiguration">
+    <injection language="HTML" injector-id="js">
+      <display-name>HTML in JS strings</display-name>
+      <place disabled="true"><![CDATA[isHtmlLikeText()]]></place>
+    </injection>
     <injection language="GraphQL" injector-id="xml">
       <display-name>page-query</display-name>
       <place><![CDATA[xmlTag().withLocalName(string().equalTo("page-query")).withNamespace(string().equalTo("http://www.w3.org/1999/html"))]]></place>
