@@ -1,37 +1,7 @@
 <application>
   <component name="libraryTable">
-    <library name="@types/chrome" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
     <library name="@types/google-maps" type="javaScript">
       <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="@types/sanitize-html" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="firebase" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.gstatic.com_firebasejs_4.12.0_firebase.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.gstatic.com_firebasejs_4.12.0_firebase.js" />
-      </CLASSES>
-      <SOURCES />
-    </library>
-    <library name="netlify-cms" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_netlify-cms@^2.0.0_dist_netlify-cms.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_netlify-cms@^2.0.0_dist_netlify-cms.js" />
-      </CLASSES>
       <SOURCES />
     </library>
     <library name="netlify-identity-widget" type="javaScript">
@@ -42,28 +12,6 @@
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_identity.netlify.com_v1_netlify-identity-widget.js" />
-      </CLASSES>
-      <SOURCES />
-    </library>
-    <library name="smoothscroll" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_iamdustan-smoothscroll_0.4.0_smoothscroll.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_iamdustan-smoothscroll_0.4.0_smoothscroll.js" />
-      </CLASSES>
-      <SOURCES />
-    </library>
-    <library name="tnm8ual" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_use.typekit.net_tnm8ual.css" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_use.typekit.net_tnm8ual.css" />
       </CLASSES>
       <SOURCES />
     </library>

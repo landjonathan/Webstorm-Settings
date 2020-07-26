@@ -12,8 +12,10 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.sass</mask>
     <mask>*.css,*.html</mask>
     <mask>*.vue</mask>
+    <mask>*.njk</mask>
+    <mask>*.sass</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
