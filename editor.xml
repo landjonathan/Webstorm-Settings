@@ -23,5 +23,6 @@
       <option name="FOREGROUND" value="848891" />
       <option name="FONT_TYPE" value="2" />
     </pattern>
+    <pattern pattern="\btemp\b.*" />
   </component>
 </application>
