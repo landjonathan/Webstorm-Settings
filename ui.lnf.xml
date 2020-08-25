@@ -2,6 +2,8 @@
   <component name="UISettings">
     <option name="DISABLE_MNEMONICS" value="false" />
     <option name="EDITOR_TAB_LIMIT" value="30" />
+    <option name="IDE_AA_TYPE" value="Greyscale" />
+    <option name="PIN_FIND_IN_PATH_POPUP" value="true" />
     <option name="SHOW_INPLACE_COMMENTS" value="true" />
   </component>
 </application>
