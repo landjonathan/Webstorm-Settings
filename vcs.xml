@@ -122,9 +122,13 @@
           <option name="url" value="git@github.com:StudioPraktik/praktik-under-construction.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:landjonathan/tlj-songbook.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Praktik/PRAKTIK" />
+    <option name="cloneParentDir" value="$USER_HOME$/Praktik/projects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
