@@ -10,6 +10,10 @@
     <option name="OBJECT_WRAPPING" value="1" />
     <option name="ARRAY_WRAPPING" value="1" />
   </JSON>
+  <TypeScriptCodeStyleSettings version="0">
+    <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
+  </TypeScriptCodeStyleSettings>
   <VueCodeStyleSettings>
     <option name="UNIFORM_INDENT" value="false" />
   </VueCodeStyleSettings>
@@ -77,6 +81,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
+    <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
