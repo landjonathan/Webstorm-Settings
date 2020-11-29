@@ -1,5 +1,9 @@
 <application>
   <component name="LanguageInjectionConfiguration">
+    <injection language="JSON" injector-id="xml">
+      <display-name>i18n</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("i18n")).withNamespace(string().equalTo("http://www.w3.org/1999/html"))]]></place>
+    </injection>
     <injection language="GraphQL" injector-id="xml">
       <display-name>page-query</display-name>
       <place><![CDATA[xmlTag().withLocalName(string().equalTo("page-query")).withNamespace(string().equalTo("http://www.w3.org/1999/html"))]]></place>
