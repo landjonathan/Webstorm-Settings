@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="client" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="client" />
-    <option name="FILE_MASK" value="*.sass" />
+    <option name="FILE_MASK" value="*.sass, *.vue" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -19,7 +19,7 @@
     <mask>*.vue</mask>
     <mask>*.njk</mask>
     <mask>*.yml</mask>
-    <mask>*.sass, *.vue</mask>
     <mask>*.sass</mask>
+    <mask>*.sass, *.vue</mask>
   </component>
 </application>
