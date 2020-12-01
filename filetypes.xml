@@ -1,20 +1,20 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="liquid" type="HTML" />
       <mapping pattern="index" type="JSON" />
       <mapping ext="ndjson" type="JSON" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="data.ndjson" type="PLAIN_TEXT" />
       <mapping pattern=",gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping pattern=".cargo-ok" type="PLAIN_TEXT" />
-      <mapping pattern=".eleventyignore" type="PLAIN_TEXT" />
-      <mapping pattern="_redirects" type="PLAIN_TEXT" />
-      <mapping pattern=".htmlnanorc" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".mvnrc" type="PLAIN_TEXT" />
+      <mapping pattern=".eleventyignore" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping pattern="_redirects" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".htmlnanorc" type="PLAIN_TEXT" />
       <mapping pattern="asdf" type="PLAIN_TEXT" />
       <mapping ext="mo4" type="PLAIN_TEXT" />
       <mapping ext="sketch" type="PLAIN_TEXT" />
