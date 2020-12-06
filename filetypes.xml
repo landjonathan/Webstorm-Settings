@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="_headers" type="AUTO_DETECTED" />
       <mapping ext="liquid" type="HTML" />
       <mapping pattern="index" type="JSON" />
       <mapping ext="ndjson" type="JSON" />
