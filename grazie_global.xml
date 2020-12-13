@@ -4,8 +4,8 @@
       <SuppressingContext>
         <option name="suppressed">
           <set>
-            <option value="prevent keyboard scrolling" />
             <option value="criteria criteria" />
+            <option value="prevent keyboard scrolling" />
           </set>
         </option>
       </SuppressingContext>
