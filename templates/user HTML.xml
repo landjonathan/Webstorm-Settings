@@ -11,4 +11,10 @@
       <option name="JADE" value="true" />
     </context>
   </template>
+  <template name="s" value="&lt;section class=&quot;$0$&quot;&gt;&#10;  &lt;div class=&quot;content&quot;&gt;&#10;    $END$&#10;  &lt;/div&gt;&#10;&lt;/section&gt;" toReformat="false" toShortenFQNames="true">
+    <variable name="0" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
 </templateSet>
