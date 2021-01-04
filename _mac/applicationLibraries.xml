@@ -4,6 +4,17 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="agv4bwu" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_use.typekit.net_agv4bwu.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_use.typekit.net_agv4bwu.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="netlify-identity-widget" type="javaScript">
       <properties>
         <sourceFilesUrls>
