@@ -4,8 +4,8 @@
       <mapping pattern="_headers" type="AUTO_DETECTED" />
       <mapping ext="liquid" type="HTML" />
       <mapping pattern="index" type="JSON" />
+      <mapping ext="graphqlconfig" type="JSON" />
       <mapping ext="ndjson" type="JSON" />
-      <removed_mapping ext="graphqlconfig" type="JSON" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="data.ndjson" type="PLAIN_TEXT" />
       <mapping pattern=",gitkeep" type="PLAIN_TEXT" />
