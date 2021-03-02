@@ -59,5 +59,16 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="xjc4bjk" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_use.typekit.net_xjc4bjk.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_use.typekit.net_xjc4bjk.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
   </component>
 </application>
