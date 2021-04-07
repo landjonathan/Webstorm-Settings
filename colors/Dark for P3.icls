@@ -4,7 +4,7 @@
     <property name="created">2018-08-15T14:25:33</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.1.0.0</property>
-    <property name="modified">2020-10-19T09:38:42</property>
+    <property name="modified">2021-04-07T09:28:08</property>
     <property name="originalScheme">Dark for P3</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
@@ -15,6 +15,7 @@
     <option name="CARET_COLOR" value="bbbbbb" />
     <option name="CARET_ROW_COLOR" value="333a46" />
     <option name="CONSOLE_BACKGROUND_KEY" value="242424" />
+    <option name="DOCUMENTATION_COLOR" value="3c3f41" />
     <option name="FILESTATUS_ADDED" value="629755" />
     <option name="FILESTATUS_DELETED" value="6c6c6c" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6c6c6c" />
