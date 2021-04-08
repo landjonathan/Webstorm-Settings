@@ -37,6 +37,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="netlify-cms" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_netlify-cms@^2.0.0_dist_netlify-cms.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_netlify-cms@^2.0.0_dist_netlify-cms.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="netlify-identity-widget" type="javaScript">
       <properties>
         <sourceFilesUrls>
