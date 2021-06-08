@@ -59,6 +59,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="splitting" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_splitting_dist_splitting.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_splitting_dist_splitting.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="vue" type="javaScript">
       <properties>
         <sourceFilesUrls>
