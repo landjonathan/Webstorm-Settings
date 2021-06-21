@@ -17,7 +17,7 @@
       <option name="HTML" value="true" />
     </context>
   </template>
-  <template name="sec" value="&lt;section class=&quot;$0$&quot;&gt;&#10;  &lt;div class=&quot;content&quot;&gt;&#10;    $1$&#10;  &lt;/div&gt;&#10;&lt;/section&gt;" toReformat="false" toShortenFQNames="true">
+  <template name="sec" value="&lt;section class=&quot;$0$&quot;&gt;&#10;  &lt;div class=&quot;content&quot;&gt;&#10;    $1$&#10;  &lt;/div&gt;&#10;&lt;/section&gt;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="0" expression="lowercaseAndDash(clipboard())" defaultValue="" alwaysStopAt="true" />
     <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
