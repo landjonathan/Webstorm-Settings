@@ -4,19 +4,18 @@
       <mapping pattern="_headers" type="AUTO_DETECTED" />
       <mapping ext="liquid" type="HTML" />
       <mapping pattern="index" type="JSON" />
+      <mapping pattern="asdf" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="data.ndjson" type="PLAIN_TEXT" />
-      <mapping pattern=",gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
-      <mapping pattern=".cargo-ok" type="PLAIN_TEXT" />
-      <mapping pattern=".mvnrc" type="PLAIN_TEXT" />
-      <mapping pattern=".eleventyignore" type="PLAIN_TEXT" />
-      <mapping pattern="a" type="PLAIN_TEXT" />
-      <mapping pattern="_redirects" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".env-example" type="PLAIN_TEXT" />
+      <mapping pattern=".cargo-ok" type="PLAIN_TEXT" />
+      <mapping pattern="_redirects" type="PLAIN_TEXT" />
+      <mapping pattern=",gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".htmlnanorc" type="PLAIN_TEXT" />
-      <mapping pattern="asdf" type="PLAIN_TEXT" />
+      <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
+      <mapping pattern=".mvnrc" type="PLAIN_TEXT" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping pattern=".env-example" type="PLAIN_TEXT" />
       <mapping ext="mo4" type="PLAIN_TEXT" />
       <mapping ext="sketch" type="PLAIN_TEXT" />
       <mapping ext="com" type="PLAIN_TEXT" />
@@ -28,6 +27,7 @@
       <removed_mapping ext="elevnetyignore" approved="true" type="GitIgnore file" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="njk" approved="true" type="Handlebars/Mustache" />
+      <removed_mapping pattern=".eleventyignore" approved="true" type="Eleventy File" />
       <mapping pattern="ignore" type="Git exclude file" />
     </extensionMap>
   </component>
