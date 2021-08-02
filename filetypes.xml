@@ -24,6 +24,8 @@
       <mapping ext="njk" type="Twig" />
       <mapping pattern=".postcssrc" type="YAML" />
       <removed_mapping ext="elevnetyignore" approved="true" type="GitIgnore file" />
+      <removed_mapping ext="graphqlconfig" approved="true" type="JSON" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="njk" approved="true" type="Handlebars/Mustache" />
       <mapping pattern="ignore" type="Git exclude file" />
     </extensionMap>
