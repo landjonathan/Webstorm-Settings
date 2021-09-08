@@ -10,6 +10,7 @@
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="FORCE_QUOTE_STYlE" value="true" />
+    <option name="USE_EXPLICIT_JS_EXTENSION" value="TRUE" />
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </JSCodeStyleSettings>
@@ -28,9 +29,6 @@
   <VueCodeStyleSettings>
     <option name="UNIFORM_INDENT" value="false" />
   </VueCodeStyleSettings>
-  <XML>
-    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
-  </XML>
   <editorconfig>
     <option name="ENABLED" value="false" />
   </editorconfig>
