@@ -43,4 +43,5 @@
   <action id="VueExtractComponentAction">
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleStrikethroughAction" />
 </keymap>
