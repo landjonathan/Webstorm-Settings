@@ -1,0 +1,34 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="_headers" type="AUTO_DETECTED" />
+      <mapping pattern="l" type="AUTO_DETECTED" />
+      <mapping ext="liquid" type="HTML" />
+      <mapping pattern="index" type="JSON" />
+      <mapping pattern="asdf" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="data.ndjson" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".cargo-ok" type="PLAIN_TEXT" />
+      <mapping pattern="_redirects" type="PLAIN_TEXT" />
+      <mapping pattern=",gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".htmlnanorc" type="PLAIN_TEXT" />
+      <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
+      <mapping pattern=".mvnrc" type="PLAIN_TEXT" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping pattern=".env-example" type="PLAIN_TEXT" />
+      <mapping ext="mo4" type="PLAIN_TEXT" />
+      <mapping ext="sketch" type="PLAIN_TEXT" />
+      <mapping ext="com" type="PLAIN_TEXT" />
+      <mapping ext="todo" type="PLAIN_TEXT" />
+      <mapping pattern="kuala-lumpur.svg" type="SVG" />
+      <mapping ext="njk" type="Twig" />
+      <mapping pattern=".postcssrc" type="YAML" />
+      <removed_mapping ext="elevnetyignore" approved="true" type="GitIgnore file" />
+      <removed_mapping ext="graphqlconfig" approved="true" type="JSON" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="njk" approved="true" type="Handlebars/Mustache" />
+      <mapping pattern="ignore" type="Git exclude file" />
+    </extensionMap>
+  </component>
+</application>

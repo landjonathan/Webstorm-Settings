@@ -1,0 +1,45 @@
+<templateSet group="user Vue">
+  <template name="vs" value="&lt;style scoped lang=&quot;sass&quot;&gt;&#10;  $0$&#10;&lt;/style&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="0" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="VUE_COMPONENT_DESCRIPTOR" value="true" />
+      <option name="VUE_TOP_LEVEL" value="true" />
+    </context>
+  </template>
+  <template name="transition" value="&lt;transition name=&quot;$0$&quot;&gt;&#10;    $SELECTION$&#10;&lt;/transition&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="0" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="VUE_TEMPLATE" value="true" />
+    </context>
+  </template>
+  <template name=":bg" value=":style=&quot;`background-image: url('${$0$}')`&quot;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="0" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="VUE_INSIDE_TAG" value="true" />
+      <option name="VUE_TEMPLATE" value="true" />
+    </context>
+  </template>
+  <template name="nuxtStore" value="export const state = () =&gt; ({&#10; &#10;})&#10;&#10;export const mutations = {&#10;  &#10;}&#10;&#10;export const actions = {&#10;  nuxtServerInit ({commit, dispatch}) {&#10;&#10;  },&#10;}&#10;&#10;export const getters = {&#10;&#10;}" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="ES6_STATEMENT" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+      <option name="VUE_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="vp" value="$propName$: { type: $type$, required: $default$$END$ }," description="" toReformat="false" toShortenFQNames="true">
+    <variable name="propName" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="default" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="VUE_COMPONENT_DESCRIPTOR" value="true" />
+      <option name="VUE_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="vm" value="mounted () {&#10;  $0$&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="0" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="VUE_COMPONENT_DESCRIPTOR" value="true" />
+      <option name="VUE_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

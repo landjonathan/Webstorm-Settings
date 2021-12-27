@@ -1,0 +1,29 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="SQLite" injector-id="js">
+      <display-name>flash.data (SQLite)</display-name>
+      <place><![CDATA[jsLiteral().and(asAssignedValue("text", "*", "dbStatement"))]]></place>
+      <place><![CDATA[jsLiteral().and(asAssignedValue("text", "flash.data.SQLStatement"))]]></place>
+    </injection>
+    <injection language="JSON" injector-id="xml">
+      <display-name>i18n</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("i18n")).withNamespace(string().equalTo("http://www.w3.org/1999/html"))]]></place>
+    </injection>
+    <injection language="GraphQL" injector-id="xml">
+      <display-name>page-query</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("page-query")).withNamespace(string().equalTo("http://www.w3.org/1999/html"))]]></place>
+    </injection>
+    <injection language="yaml" injector-id="xml">
+      <display-name>router</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("router")).withNamespace(string().equalTo("http://www.w3.org/1999/html"))]]></place>
+    </injection>
+    <injection language="GraphQL" injector-id="xml">
+      <display-name>static-query</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("static-query")).withNamespace(string().equalTo("http://www.w3.org/1999/html"))]]></place>
+    </injection>
+    <injection language="CSS" injector-id="xml">
+      <display-name>style</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("style")).withNamespace(string().equalTo("http://www.w3.org/2000/svg"))]]></place>
+    </injection>
+  </component>
+</application>

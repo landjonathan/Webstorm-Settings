@@ -1,0 +1,14 @@
+<templateSet group="user css">
+  <template name="h" value="h1,h2,h3,h4,h5,h6" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_RULESET_LIST" value="true" />
+    </context>
+  </template>
+  <template name="#" value="#{$SELECTION$}" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+    </context>
+  </template>
+</templateSet>
