@@ -5,6 +5,7 @@
       <option name="JAVA_CODE" value="false" />
       <option name="JAVA_COMMENT" value="false" />
       <option name="JAVA_STRING" value="false" />
+      <option name="JSP" value="false" />
     </context>
   </template>
   <template name="an" value="&lt;xsl:attribute name=&quot;$NAME$&quot;&gt;$END$&lt;/xsl:attribute&gt;" description="Attribute-Name." toReformat="false" toShortenFQNames="true">
@@ -14,6 +15,7 @@
       <option name="JAVA_CODE" value="false" />
       <option name="JAVA_COMMENT" value="false" />
       <option name="JAVA_STRING" value="false" />
+      <option name="JSP" value="false" />
     </context>
   </template>
   <template name="ats" value="&lt;xsl:apply-templates select=&quot;$SELECT$&quot;/&gt;$END$" description="Apply-Templates-Select." toReformat="false" toShortenFQNames="true">
@@ -23,6 +25,7 @@
       <option name="JAVA_CODE" value="false" />
       <option name="JAVA_COMMENT" value="false" />
       <option name="JAVA_STRING" value="false" />
+      <option name="JSP" value="false" />
     </context>
   </template>
 </templateSet>
