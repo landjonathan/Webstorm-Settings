@@ -21,6 +21,7 @@
       <mapping ext="sketch" type="PLAIN_TEXT" />
       <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="todo" type="PLAIN_TEXT" />
+      <mapping ext="plantuml" type="PlantUML file" />
       <mapping pattern="kuala-lumpur.svg" type="SVG" />
       <mapping ext="njk" type="Twig" />
       <mapping pattern=".postcssrc" type="YAML" />
