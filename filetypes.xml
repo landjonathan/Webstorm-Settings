@@ -28,8 +28,8 @@
       <removed_mapping ext="graphqlconfig" approved="true" type="JSON" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="njk" approved="true" type="Handlebars/Mustache" />
-      <removed_mapping ext="yaml" type="YAML" />
-      <removed_mapping ext="yml" type="YAML" />
+      <removed_mapping ext="yaml" approved="true" type="YAML" />
+      <removed_mapping ext="yml" approved="true" type="YAML" />
       <mapping pattern="ignore" type="Git exclude file" />
     </extensionMap>
   </component>
