@@ -1,5 +1,5 @@
 <templateSet group="user Sanity.io">
-  <template name="f" value="{&#10;  title: '$0$',&#10;  name: '$1$',&#10;  type: '$2$',&#10;}," description="New field" toReformat="false" toShortenFQNames="true">
+  <template name="sf" value="{&#10;  title: '$0$',&#10;  name: '$1$',&#10;  type: '$2$',&#10;}," description="Sanity field" toReformat="false" toShortenFQNames="true">
     <variable name="0" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
