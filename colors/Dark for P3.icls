@@ -4,7 +4,7 @@
     <property name="created">2018-08-15T14:25:33</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.1.0.0</property>
-    <property name="modified">2021-11-22T16:33:41</property>
+    <property name="modified">2022-07-18T13:52:09</property>
     <property name="originalScheme">Dark for P3</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
@@ -51,6 +51,7 @@
     <option name="SELECTION_BACKGROUND" value="1d2029" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="TEARLINE_COLOR" value="656565" />
+    <option name="VISUAL_INDENT_GUIDE" value="3b3e4f" />
     <option name="WHITESPACES" value="505050" />
   </colors>
   <attributes>
