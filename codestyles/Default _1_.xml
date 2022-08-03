@@ -30,9 +30,6 @@
   <VueCodeStyleSettings>
     <option name="UNIFORM_INDENT" value="false" />
   </VueCodeStyleSettings>
-  <editorconfig>
-    <option name="ENABLED" value="false" />
-  </editorconfig>
   <yaml>
     <option name="SEQUENCE_ON_NEW_LINE" value="true" />
   </yaml>
