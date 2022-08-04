@@ -4,7 +4,7 @@
     <property name="created">2018-08-15T14:25:33</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.1.0.0</property>
-    <property name="modified">2022-07-18T13:52:09</property>
+    <property name="modified">2022-08-04T15:07:25</property>
     <property name="originalScheme">Dark for P3</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
@@ -641,6 +641,11 @@
         <option name="FOREGROUND" value="c0c5ce" />
       </value>
     </option>
+    <option name="HTML_CUSTOM_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="81c0ff" />
+      </value>
+    </option>
     <option name="HTML_TAG">
       <value>
         <option name="FOREGROUND" value="8ea2bb" />
@@ -1062,6 +1067,11 @@
       <value>
         <option name="FOREGROUND" value="ce8672" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="XML_CUSTOM_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="81c0ff" />
       </value>
     </option>
     <option name="XML_ENTITY_REFERENCE">
