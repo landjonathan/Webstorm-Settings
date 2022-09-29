@@ -146,9 +146,13 @@
           <option name="url" value="git@github.com:Connecteam/bookshelf.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/MatanGbr/connecteam.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Connecteam" />
+    <option name="cloneParentDir" value="$USER_HOME$/Connecteam/frontend-task" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
