@@ -4,7 +4,7 @@
     <property name="created">2018-08-15T14:25:33</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.1.0.0</property>
-    <property name="modified">2021-11-22T16:33:41</property>
+    <property name="modified">2022-08-16T16:43:17</property>
     <property name="originalScheme">Dark for P3</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
@@ -51,6 +51,7 @@
     <option name="SELECTION_BACKGROUND" value="1d2029" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="TEARLINE_COLOR" value="656565" />
+    <option name="VISUAL_INDENT_GUIDE" value="3b3e4f" />
     <option name="WHITESPACES" value="505050" />
   </colors>
   <attributes>
@@ -640,6 +641,11 @@
         <option name="FOREGROUND" value="c0c5ce" />
       </value>
     </option>
+    <option name="HTML_CUSTOM_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="81c0ff" />
+      </value>
+    </option>
     <option name="HTML_TAG">
       <value>
         <option name="FOREGROUND" value="8ea2bb" />
@@ -712,8 +718,7 @@
     </option>
     <option name="JS.BRACES">
       <value>
-        <option name="FOREGROUND" value="abb2b6" />
-        <option name="BACKGROUND" value="282c34" />
+        <option name="FOREGROUND" value="c0c5cd" />
       </value>
     </option>
     <option name="JS.DOC_COMMENT">
@@ -749,12 +754,7 @@
         <option name="FOREGROUND" value="90a1b2" />
       </value>
     </option>
-    <option name="JS.PARAMETER">
-      <value>
-        <option name="FOREGROUND" value="90a1b2" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
+    <option name="JS.PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="JS.REGEXP">
       <value>
         <option name="FOREGROUND" value="97b5b4" />
@@ -853,6 +853,7 @@
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="eaca8e" />
+        <option name="EFFECT_COLOR" value="4f5b63" />
       </value>
     </option>
     <option name="METHOD_DECLARATION_ATTRIBUTES">
@@ -1057,10 +1058,18 @@
         <option name="FOREGROUND" value="bc606b" />
       </value>
     </option>
+    <option name="XML:INJECTED_LANGUAGE_FRAGMENT">
+      <value />
+    </option>
     <option name="XML_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="ce8672" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="XML_CUSTOM_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="81c0ff" />
       </value>
     </option>
     <option name="XML_ENTITY_REFERENCE">

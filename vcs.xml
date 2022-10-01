@@ -142,9 +142,13 @@
           <option name="url" value="https://github.com/Studio-Praktik/chemomab.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:Connecteam/bookshelf.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Praktik" />
+    <option name="cloneParentDir" value="$USER_HOME$/Connecteam" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
