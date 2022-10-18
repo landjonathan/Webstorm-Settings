@@ -3,6 +3,8 @@
     <extensionMap>
       <mapping ext="astro" type="HTML" />
       <mapping ext="njk" type="Twig" />
+      <removed_mapping ext="astro" approved="true" type="TypeScript JSX" />
+      <removed_mapping ext="astro_" approved="true" type="HTML" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="yaml" approved="true" type="YAML" />
       <removed_mapping ext="yml" approved="true" type="YAML" />
