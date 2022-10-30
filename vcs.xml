@@ -150,9 +150,17 @@
           <option name="url" value="https://github.com/MatanGbr/connecteam.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/lionberg/connecteam.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/lionberg/connecteam_library.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Connecteam/frontend-task" />
+    <option name="cloneParentDir" value="$USER_HOME$/Connecteam/frontend-task/dmitry-lubenskiy" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
