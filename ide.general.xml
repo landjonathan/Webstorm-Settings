@@ -14,6 +14,5 @@
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
     <entry key="js.debugger.webconsole" value="false" />
     <entry key="documentation.show.toolbar" value="true" />
-    <entry key="ide.experimental.ui" value="false" />
   </component>
 </application>
