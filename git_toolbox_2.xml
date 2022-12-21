@@ -4,6 +4,7 @@
     <option name="blameInlineAuthorNameType" value="FULL" />
     <option name="blameStatusAuthorNameType" value="FULL" />
     <option name="showBlameWidget" value="false" />
-    <option name="version" value="5" />
+    <option name="startupNotificationVersion" value="1" />
+    <option name="version" value="6" />
   </component>
 </application>
