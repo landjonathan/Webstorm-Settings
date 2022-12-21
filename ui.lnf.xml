@@ -1,8 +1,8 @@
 <application>
   <component name="UISettings">
+    <option name="CLOSE_NON_MODIFIED_FILES_FIRST" value="true" />
     <option name="DISABLE_MNEMONICS" value="false" />
-    <option name="EDITOR_TAB_LIMIT" value="30" />
-    <option name="OPEN_IN_PREVIEW_TAB_IF_POSSIBLE" value="true" />
+    <option name="EDITOR_TAB_LIMIT" value="60" />
     <option name="SHOW_INPLACE_COMMENTS" value="true" />
   </component>
 </application>
