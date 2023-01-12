@@ -4,13 +4,13 @@
       <version-cache version="16.13.1" last-modified="1638358397000" />
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v15.14.0/bin/node">
-      <version-cache last-modified="0" />
+      <version-cache version="15.14.0" last-modified="1617725158000" />
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v14.17.1/bin/node">
-      <version-cache version="14.17.1" last-modified="1623760374000" />
+      <version-cache last-modified="0" />
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v14.5.0/bin/node">
-      <version-cache version="14.5.0" last-modified="1593555141000" />
+      <version-cache last-modified="0" />
     </local-interpreter>
   </component>
 </application>
