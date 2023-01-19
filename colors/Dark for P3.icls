@@ -4,7 +4,7 @@
     <property name="created">2018-08-15T14:25:33</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.1.0.0</property>
-    <property name="modified">2022-08-16T16:43:17</property>
+    <property name="modified">2023-01-19T14:38:21</property>
     <property name="originalScheme">Dark for P3</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
@@ -41,6 +41,7 @@
     <option name="INDENT_GUIDE" value="263a4d" />
     <option name="LINE_NUMBERS_COLOR" value="505b66" />
     <option name="LOOKUP_COLOR" value="" />
+    <option name="MATCHED_BRACES_INDENT_GUIDE_COLOR" value="52526b" />
     <option name="METHOD_SEPARATORS_COLOR" value="c0c5ce" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
     <option name="NOTIFICATION_BACKGROUND" value="3c3f41" />
