@@ -4,7 +4,7 @@
     <property name="created">2018-08-15T14:25:33</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.1.0.0</property>
-    <property name="modified">2023-01-19T14:38:21</property>
+    <property name="modified">2023-04-20T15:37:56</property>
     <property name="originalScheme">Dark for P3</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
@@ -337,12 +337,12 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="eaca8e" />
+        <option name="FOREGROUND" value="ffd891" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="eaca8e" />
+        <option name="FOREGROUND" value="ffd891" />
       </value>
     </option>
     <option name="DEFAULT_COMMA">
@@ -419,7 +419,7 @@
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
-        <option name="FOREGROUND" value="eaca8e" />
+        <option name="FOREGROUND" value="ffe9bf" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -1064,8 +1064,8 @@
     </option>
     <option name="XML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="ce8672" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="cea079" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="XML_CUSTOM_TAG_NAME">
