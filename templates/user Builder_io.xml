@@ -1,0 +1,19 @@
+<templateSet group="user Builder.io">
+  <template name="bf" value="{&#10;  name: '$0$',&#10;  type: 'string$1$',&#10;}," description="Builder.io input field" toReformat="false" toShortenFQNames="true">
+    <variable name="0" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="ECMAScript6" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="be" value="{&#10;  name: '$0$',&#10;  type: 'string',&#10;  enum: [&#10;      { value: '$1$', label: '$1$' },&#10;      { value: '$2$', label: '$2$' },&#10;    ],&#10;    defaultValue: '$1$',&#10;}," description="Builder.io enum input field" toReformat="false" toShortenFQNames="true">
+    <variable name="0" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="ECMAScript6" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
