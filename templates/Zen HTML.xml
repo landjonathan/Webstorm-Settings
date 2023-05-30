@@ -5,4 +5,8 @@
     <variable name="className" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="i" value="&lt;i&gt;$END$&lt;/i&gt;" shortcut="NONE" description="&lt;i&gt;...&lt;/i&gt;" toReformat="false" toShortenFQNames="true">
+    <variable name="className" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
 </templateSet>
