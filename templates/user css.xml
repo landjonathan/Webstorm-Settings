@@ -14,7 +14,9 @@
   <template name="v" value="var($0$)" description="" toReformat="false" toShortenFQNames="true">
     <variable name="0" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="CSS_PROPERTY_VALUE" value="true" />
+      <option name="CSS" value="true" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
     </context>
   </template>
   <template name="c" value="calc($0$)" description="" toReformat="false" toShortenFQNames="true">
