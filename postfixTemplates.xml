@@ -2,7 +2,11 @@
   <component name="PostfixTemplates">
     <template id="logo@userDefined" key=".logo" provider="builtin.js" language-level="ES6" topmost="false">
       <conditions />
-      <template name="fakeKey" value="console.log({ $EXPR$ })" toReformat="true" toShortenFQNames="true" />
+      <template name="fakeKey" value="console.log({ $EXPR$ })" description="" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="bf@userDefined" key=".bf" provider="builtin.js" language-level="ES6" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="{&#10;  name: '$EXPR$',&#10;  type: '$END$',&#10;}" toReformat="true" toShortenFQNames="true" />
     </template>
   </component>
 </application>
