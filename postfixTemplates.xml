@@ -6,7 +6,7 @@
     </template>
     <template id="bf@userDefined" key=".bf" provider="builtin.js" language-level="ES6" topmost="false">
       <conditions />
-      <template name="fakeKey" value="{&#10;  name: '$EXPR$',&#10;  type: '$END$',&#10;}" toReformat="true" toShortenFQNames="true" />
+      <template name="fakeKey" value="{&#10;  name: '$EXPR$',&#10;  type: '$END$',&#10;}," toReformat="true" toShortenFQNames="true" />
     </template>
   </component>
 </application>
