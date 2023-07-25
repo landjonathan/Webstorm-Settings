@@ -2,13 +2,17 @@
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
     <group value="SelectInProjectView" is_action="true" action_type="1" position="0">
       <path value="root" />
-      <path value="Navigation Bar Toolbar" />
+      <path value="Main Toolbar Right" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="SelectInProjectView" is_action="true" action_type="1" position="0">
       <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Right" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="EditorToggleUseSoftWraps" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Main Toolbar Right" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="EditorToggleUseSoftWraps" is_action="true" action_type="1" position="1">
@@ -16,10 +20,9 @@
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="EditorToggleUseSoftWraps" is_action="true" action_type="1" position="1">
+    <group value="Git.Fetch" is_action="true" action_type="1" position="2">
       <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Right" />
+      <path value="Main Toolbar Right" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group seperator="true" action_type="1" position="2">
@@ -27,22 +30,14 @@
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Git.Fetch" is_action="true" action_type="1" position="2">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Right" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="ProblemsView.QuickFixes" is_action="true" action_type="1" position="3">
       <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Right" />
+      <path value="Main Toolbar Right" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group seperator="true" action_type="1" position="4">
       <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Right" />
+      <path value="Main Toolbar Right" />
       <option name="myInitialPosition" value="-1" />
     </group>
   </component>
