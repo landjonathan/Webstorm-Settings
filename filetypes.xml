@@ -4,13 +4,15 @@
       <mapping ext="astro" type="HTML" />
       <mapping pattern=".LottieElement.tsx.swp" type="PLAIN_TEXT" />
       <mapping pattern=".Lottie.tsx.swp" type="PLAIN_TEXT" />
+      <mapping ext="plantuml" type="PlantUML file" />
+      <removed_mapping ext="astro" approved="true" type="Astro" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="pdf" approved="true" type="Native" />
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="yaml" approved="true" type="YAML" />
       <removed_mapping ext="yml" approved="true" type="YAML" />
-      <mapping ext="plantuml" type="PlantUML file" />
     </extensionMap>
   </component>
 </application>
