@@ -6,7 +6,7 @@
     <plugin-conflict-prompted value="false" />
     <file-types-claimed value="true" />
     <sql-plugin-status value="MISSING" />
-    <sbn-plugin-status value="PASSIVE" />
+    <sbn-plugin-status value="ACTIVE" />
   </component>
   <component name="DBNavigator.Application.Settings">
     <diagnostics>
