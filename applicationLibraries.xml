@@ -1,5 +1,15 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/b-spline" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="@types/hubspot-pace" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="cta" type="javaScript">
       <properties>
         <sourceFilesUrls>
