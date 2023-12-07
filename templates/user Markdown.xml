@@ -5,7 +5,6 @@
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="DART" value="false" />
-      <option name="ECMAScript6" value="false" />
       <option name="HAML" value="false" />
       <option name="HTML" value="false" />
       <option name="Handlebars" value="false" />
