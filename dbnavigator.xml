@@ -9,6 +9,7 @@
   <component name="DBNavigator.Application.PluginStatusManager">
     <plugin-statuses>
       <status project="$USER_HOME$/Connecteam/next/lp2" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/Connecteam/app/mobilemanagement" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/Connecteam/Buider.io/builder" dbn="PASSIVE" sql="MISSING" />
       <status project="DEFAULT" dbn="PASSIVE" sql="MISSING" />
     </plugin-statuses>
@@ -23,6 +24,7 @@
       <database-lag enabled="false" connectivity="2000" querying="2000" fetching="500" />
       <miscellaneous dialog-sizing-reset="false" bulk-actions-enabled="false" background-disposer-disabled="false" timeout-handling-disabled="false" />
     </diagnostics>
+    <client-id value="0880F3748D814579B411E36F7281EE9A" />
   </component>
   <component name="DBNavigator.DefaultProject.Settings">
     <connections />
