@@ -11,6 +11,7 @@
       <status project="$USER_HOME$/Connecteam/next/lp2" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/Connecteam/app/mobilemanagement" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/Connecteam/Buider.io/builder" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/Connecteam/WP/connecteam.com/app/public/wp-content/themes/connecteam/inc/shortcodes/pricing-simulator/pricing-simulator-app" dbn="PASSIVE" sql="MISSING" />
       <status project="DEFAULT" dbn="PASSIVE" sql="MISSING" />
     </plugin-statuses>
   </component>
