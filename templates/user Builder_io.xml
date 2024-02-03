@@ -3,7 +3,7 @@
     <variable name="0" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="ECMAScript6" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
     </context>
   </template>
@@ -12,7 +12,7 @@
     <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="ECMAScript6" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
     </context>
   </template>
