@@ -10,8 +10,6 @@
     </option>
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
     <option name="SHOW_DIFF_PREVIEW" value="true" />
-  </component>
-  <component name="VcsApplicationSettings">
-    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
+    <option name="SHOW_TAG_NAMES" value="true" />
   </component>
 </application>

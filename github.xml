@@ -3,10 +3,10 @@
     <account name="StudioPraktik" id="b86e9eed-ce24-442b-b718-cc3daaeb5978">
       <server host="github.com" />
     </account>
-    <account name="jonathan-connecteam" id="c6ec01ba-8091-42bc-9796-bbf400627bec">
+    <account name="landjonathan" id="468bc1e1-08b0-4e1c-a0dc-4fc1f832c987">
       <server host="github.com" />
     </account>
-    <account name="landjonathan" id="468bc1e1-08b0-4e1c-a0dc-4fc1f832c987">
+    <account name="jonathan-connecteam" id="c6ec01ba-8091-42bc-9796-bbf400627bec">
       <server host="github.com" />
     </account>
   </component>

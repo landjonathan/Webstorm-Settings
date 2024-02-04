@@ -5,6 +5,7 @@
     <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JS_EXPRESSION" value="true" />
+      <option name="TS_EXPRESSION" value="true" />
     </context>
   </template>
 </templateSet>
