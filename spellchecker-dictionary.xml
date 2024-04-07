@@ -5,6 +5,8 @@
       <w>comms</w>
       <w>connecteam</w>
       <w>fetchpriority</w>
+      <w>noopener</w>
+      <w>noreferrer</w>
       <w>oklch</w>
       <w>preconnect</w>
       <w>unchosen</w>
