@@ -13,6 +13,7 @@
       <status project="$USER_HOME$/Connecteam/Buider.io/builder" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/Connecteam/WP/connecteam.com/app/public/wp-content/themes/connecteam/inc/shortcodes/pricing-simulator/pricing-simulator-app" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/Connecteam/helpers/guru-hider" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/Connecteam/WP/connecteam.com/app/public/wp-content/themes/connecteam/inc/shortcodes/pricing-simulator-panel/pricing-simulator-app" dbn="PASSIVE" sql="MISSING" />
       <status project="DEFAULT" dbn="PASSIVE" sql="MISSING" />
     </plugin-statuses>
   </component>
