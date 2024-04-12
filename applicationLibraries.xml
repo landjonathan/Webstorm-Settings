@@ -1,5 +1,15 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/b-spline" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="@types/hubspot-pace" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="cta" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -8,6 +18,18 @@
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_app.connecteam.com_cta_cta.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="v2" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_js.hsforms.net_forms_v2.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_js.hsforms.net_forms_v2.js" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
