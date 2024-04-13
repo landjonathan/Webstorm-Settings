@@ -18,6 +18,7 @@
   <component name="StatusBar">
     <option name="widgets">
       <map>
+        <entry key="AIAssistant" value="false" />
         <entry key="git" value="true" />
       </map>
     </option>
