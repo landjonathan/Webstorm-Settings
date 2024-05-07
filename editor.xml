@@ -34,6 +34,9 @@
   <component name="InlayHintsSettings">
     <option name="lastViewedProviderKeyId" value="JavaScript.codium.tests.generate" />
   </component>
+  <component name="InlineCompletionOnboarding">
+    <option name="onboardingFinished" value="true" />
+  </component>
   <component name="SqlEditorOptions">
     <option name="concatenateStringsOnEnter" value="true" />
     <option name="qualificationType" value="On collisions" />
