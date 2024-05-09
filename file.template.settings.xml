@@ -1,12 +1,18 @@
 <application>
   <component name="ExportableFileTemplateSettings">
     <default_templates>
-      <template name="Builder Component (TSX)༏ext༏..tsx" file-name="$NAME/$NAME" reformat="true" live-template-enabled="false">
-        <template name="Builder Component (TSX)༏ext༏..tsx.child.0.ts" file-name="$NAME/$NAME.builder" reformat="true" live-template-enabled="false" />
-        <template name="Builder Component (TSX)༏ext༏..tsx.child.1.scss" file-name="$NAME/$NAME.module" reformat="true" live-template-enabled="false" />
+      <template name="Builder Component (TSX + SASS).tsx" file-name="$NAME/$NAME" reformat="true" live-template-enabled="false">
+        <template name="Builder Component (TSX + SASS).tsx.child.0༏ext༏.builder.ts" file-name="$NAME/$NAME" reformat="true" live-template-enabled="false" />
+        <template name="Builder Component (TSX + SASS).tsx.child.1༏ext༏.module.sass" file-name="$NAME/$NAME" reformat="true" live-template-enabled="false" />
       </template>
-      <template name="Builder Component (TSX)༏ext༏..tsx.child.0.ts" file-name="$NAME/$NAME.builder" reformat="true" live-template-enabled="false" />
-      <template name="Builder Component (TSX)༏ext༏..tsx.child.1.scss" file-name="$NAME/$NAME.module" reformat="true" live-template-enabled="false" />
+      <template name="Builder Component (TSX + SASS).tsx.child.0༏ext༏.builder.ts" file-name="$NAME/$NAME" reformat="true" live-template-enabled="false" />
+      <template name="Builder Component (TSX + SASS).tsx.child.1༏ext༏.module.sass" file-name="$NAME/$NAME" reformat="true" live-template-enabled="false" />
+      <template name="Builder Component (TSX + SCSS).tsx" file-name="$NAME/$NAME" reformat="true" live-template-enabled="false">
+        <template name="Builder Component (TSX + SCSS).tsx.child.0༏ext༏.builder.ts" file-name="$NAME/$NAME" reformat="true" live-template-enabled="false" />
+        <template name="Builder Component (TSX + SCSS).tsx.child.1༏ext༏.module.scss" file-name="$NAME/$NAME" reformat="true" live-template-enabled="false" />
+      </template>
+      <template name="Builder Component (TSX + SCSS).tsx.child.0༏ext༏.builder.ts" file-name="$NAME/$NAME" reformat="true" live-template-enabled="false" />
+      <template name="Builder Component (TSX + SCSS).tsx.child.1༏ext༏.module.scss" file-name="$NAME/$NAME" reformat="true" live-template-enabled="false" />
     </default_templates>
   </component>
 </application>
