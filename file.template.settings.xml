@@ -1,12 +1,18 @@
 <application>
   <component name="ExportableFileTemplateSettings">
     <default_templates>
-      <template name="Builder React Component (TSX + SCSS).tsx" file-name="$NAME/$NAME" reformat="true" live-template-enabled="false">
-        <template name="Builder React Component (TSX + SCSS).tsx.child.1༏ext༏.builder.ts" file-name="$NAME/$NAME" reformat="true" live-template-enabled="false" />
-        <template name="Builder React Component (TSX + SCSS).tsx.child.0༏ext༏.module.scss" file-name="$NAME/$NAME" reformat="true" live-template-enabled="false" />
+      <template name="Builder React Component (TSX + Sass).tsx" file-name="$NAME/$NAME" reformat="true" live-template-enabled="false">
+        <template name="Builder React Component (TSX + Sass).tsx.child.0༏ext༏.builder.ts" file-name="$NAME/$NAME" reformat="true" live-template-enabled="false" />
+        <template name="Builder React Component (TSX + Sass).tsx.child.1༏ext༏.module.sass" file-name="$NAME/$NAME" reformat="true" live-template-enabled="false" />
       </template>
-      <template name="Builder React Component (TSX + SCSS).tsx.child.0༏ext༏.module.scss" file-name="$NAME/$NAME" reformat="true" live-template-enabled="false" />
-      <template name="Builder React Component (TSX + SCSS).tsx.child.1༏ext༏.builder.ts" file-name="$NAME/$NAME" reformat="true" live-template-enabled="false" />
+      <template name="Builder React Component (TSX + Sass).tsx.child.0༏ext༏.builder.ts" file-name="$NAME/$NAME" reformat="true" live-template-enabled="false" />
+      <template name="Builder React Component (TSX + Sass).tsx.child.1༏ext༏.module.sass" file-name="$NAME/$NAME" reformat="true" live-template-enabled="false" />
+      <template name="Builder React Component (TSX + SCSS).tsx" file-name="$NAME/$NAME" reformat="true" live-template-enabled="false">
+        <template name="Builder React Component (TSX + SCSS).tsx.child.0༏ext༏.builder.ts" file-name="$NAME/$NAME" reformat="true" live-template-enabled="false" />
+        <template name="Builder React Component (TSX + SCSS).tsx.child.1༏ext༏.module.scss" file-name="$NAME/$NAME" reformat="true" live-template-enabled="false" />
+      </template>
+      <template name="Builder React Component (TSX + SCSS).tsx.child.0༏ext༏.builder.ts" file-name="$NAME/$NAME" reformat="true" live-template-enabled="false" />
+      <template name="Builder React Component (TSX + SCSS).tsx.child.1༏ext༏.module.scss" file-name="$NAME/$NAME" reformat="true" live-template-enabled="false" />
     </default_templates>
   </component>
 </application>
