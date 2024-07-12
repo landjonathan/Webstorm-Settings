@@ -26,6 +26,7 @@
       <status project="$USER_HOME$/prj/nuxt" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/Connecteam/helpers/guru-hider" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/Connecteam/WP/connecteam.com/app/public/wp-content/themes/connecteam/inc/shortcodes/pricing-simulator-panel/pricing-simulator-app" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/prj/bg3mods-daily-digest" dbn="PASSIVE" sql="MISSING" />
       <status project="DEFAULT" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/projects/UG/vue" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/prj/subtitles-translator/venv" dbn="PASSIVE" sql="MISSING" />
