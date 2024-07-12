@@ -8,9 +8,10 @@
   </component>
   <component name="DBNavigator.Application.PluginStatusManager">
     <plugin-statuses>
-      <status project="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/projects/sass-scss-converter-service" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/projects/faik-playground" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/projects/sass-scss-converter-service" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/prj/astro" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/prj/bg3mod-of-the-day" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/Connecteam/app/mobilemanagement" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/Connecteam/Buider.io/builder" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/projects/UG/nuxt" dbn="PASSIVE" sql="MISSING" />
