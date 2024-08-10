@@ -8,11 +8,9 @@
   </component>
   <component name="DBNavigator.Application.PluginStatusManager">
     <plugin-statuses>
-      <status project="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/projects/sass-scss-converter-service" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/projects/faik-playground" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/projects/sass-scss-converter-service" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/prj/bg3mod-of-the-day" dbn="PASSIVE" sql="MISSING" />
-      <status project="$USER_HOME$/prj/astro" dbn="PASSIVE" sql="MISSING" />
-      <status project="$USER_HOME$/Connecteam/app/mobilemanagement" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/Connecteam/Buider.io/builder" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/projects/UG/nuxt" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/prj/name-of-the-day" dbn="PASSIVE" sql="MISSING" />
@@ -20,14 +18,17 @@
       <status project="$USER_HOME$/prj/etymology-of-the-day" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/projects/UG/node" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/prj/subtitles-translator" dbn="PASSIVE" sql="MISSING" />
-      <status project="$USER_HOME$/Connecteam/next/lp2" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/prj/ug/nuxt" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/projects/UG/GuitarTabsParser" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/Connecteam/WP/connecteam.com/app/public/wp-content/themes/connecteam/inc/shortcodes/pricing-simulator/pricing-simulator-app" dbn="PASSIVE" sql="MISSING" />
-      <status project="$USER_HOME$/prj/nuxt" dbn="PASSIVE" sql="MISSING" />
-      <status project="$USER_HOME$/Connecteam/helpers/guru-hider" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/Connecteam/WP/connecteam.com/app/public/wp-content/themes/connecteam/inc/shortcodes/pricing-simulator-panel/pricing-simulator-app" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/prj/bg3mods-daily-digest" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/prj/astro" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/Connecteam/app/mobilemanagement" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/prj/nyer-cartoons" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/Connecteam/next/lp2" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/prj/nuxt" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/Connecteam/helpers/guru-hider" dbn="PASSIVE" sql="MISSING" />
       <status project="DEFAULT" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/projects/UG/vue" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/prj/subtitles-translator/venv" dbn="PASSIVE" sql="MISSING" />
