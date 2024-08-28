@@ -33,6 +33,8 @@
     <variable name="id" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="class" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="className" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="class" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="className" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
 </templateSet>
